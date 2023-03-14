@@ -1,0 +1,1 @@
+alert(`O resultado foi: ${parseFloat(window.prompt('Digite um número')) + parseFloat(window.prompt('Digite um número'))}`);
